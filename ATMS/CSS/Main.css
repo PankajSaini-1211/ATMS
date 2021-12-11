@@ -1,0 +1,101 @@
+﻿
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    width: 1100px;
+    height: 135px;
+    margin: auto;
+}
+
+#header-logo {
+    width: 150px;
+    height: 100px;
+    float: left;
+    margin-top: 25px;
+}
+
+#header-Name {
+    width: 950px;
+    height: 90px;
+    float: left;
+    margin-left: 0px;
+}
+
+#header-Name p {
+    font-size: 30px;
+    line-height: 9px;
+    color: #09408b;
+    font-weight: bold;
+    padding-top: 85px;
+}
+#HeaderMenu {
+    width: 1100px;
+    height: 39px;
+    margin: auto;
+}
+#ContentPlaceHolder
+{
+    width:1100px;
+    margin:auto;
+    height:auto;
+}
+#VMSHeading {
+    height: 50px;
+    border-bottom: 1px solid #09408b;
+    padding-top:20px;
+    text-align:center;
+}
+#VMSHeading p {
+    font-size: 20px;
+    line-height: 9px;
+    color: #09408b;
+    font-weight: bold;
+}
+
+#Search {
+    height: 80px;
+    border-bottom: 1px solid #09408b;
+    padding-top: 20px;
+    text-align: center;
+}
+.lineheight {
+    display: inline-block;
+}
+/*#top {
+    margin: auto;
+    width: 1200px;
+    height: 100px;
+    background-color: #D2D2FF;
+    border-radius: 5px;
+}
+
+#ATMSName {
+    width: 400px;
+    height: 100px;
+    float: left;
+    position: absolute;
+}
+
+#mid {
+    width: 800px;
+    height: 100px;
+    float: right;
+    position: absolute;
+    margin-left: 400px;
+}
+#user {
+    width: 600px;
+    height: 100px;
+    float: left;
+    position: absolute;
+}
+#logo {
+    margin-left: 600px;
+    position: absolute;
+    float: right;
+    height: 100px;
+    width: 200px;
+}*/

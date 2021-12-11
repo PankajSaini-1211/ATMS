@@ -1,0 +1,36 @@
+﻿#loginDiv {
+    width: 400px;
+    float: right;
+    margin-right: 30px;
+    border: 1px solid;
+    background-color: #FFF;
+    margin-top: 140px;
+    border-radius: 35px;
+}
+
+btnLogin:hover {
+    opacity: 0.8;
+}
+
+.imgcontainer {
+    text-align: center;
+    
+}
+
+.container {
+    padding: 16px;
+}
+
+.lineheight
+{
+    display:inline-block;
+}
+
+
+
+
+
+
+
+
+
